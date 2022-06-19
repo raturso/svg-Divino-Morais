@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://github.com/raturso/svg-Divino-Morais/blob/b43931fe7530c637117396bd9fa426e9d91d2baf/normalize.css">
-    <link rel="stylesheet" href="https://github.com/raturso/svg-Divino-Morais/blob/b43931fe7530c637117396bd9fa426e9d91d2baf/style.css">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/raturso/svg-Divino-Morais/main/normalize.css">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/raturso/svg-Divino-Morais/main/style.css">
 
     <title>Document</title>
 </head>
